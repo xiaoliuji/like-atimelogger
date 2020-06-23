@@ -1,0 +1,20 @@
+.timer-component {
+  width: 70px;
+  height: 100px;
+  position: relative;
+  /* background-color: skyblue; */
+}
+
+.timer-component image {
+  width: 70px;
+  height: 70px;
+  box-sizing: border-box;
+}
+
+.timer-component text {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  color: #000;
+  font-size: 14px;
+}

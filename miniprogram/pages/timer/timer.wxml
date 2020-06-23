@@ -1,0 +1,9 @@
+<view class="timerContainer">
+  <block wx:for="{{timerItems}}" wx:key="id">
+    <x-timer timerItem="{{item}}" />
+  </block>
+</view>
+
+
+
+

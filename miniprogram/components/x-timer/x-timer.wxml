@@ -1,0 +1,4 @@
+<view class="timer-component">
+  <image mode="aspectFill" src="{{timerItem.timerImg}}" />
+  <text>{{timerItem.timerText}}</text>
+</view>

@@ -30,13 +30,53 @@
 		"game": {
 			"list": []
 		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
 		"miniprogram": {
-			"current": 0,
+			"current": -1,
 			"list": [
 				{
 					"id": -1,
 					"name": "db guide",
-					"pathName": "pages/databaseGuide/databaseGuide"
+					"pathName": "pages/databaseGuide/databaseGuide",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "timer",
+					"pathName": "pages/timer/timer",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "log",
+					"pathName": "pages/log/log",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "goal",
+					"pathName": "pages/goal/goal",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "manager",
+					"pathName": "pages/manager/manager",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "my",
+					"pathName": "pages/my/my",
+					"query": "",
+					"scene": null
 				}
 			]
 		}

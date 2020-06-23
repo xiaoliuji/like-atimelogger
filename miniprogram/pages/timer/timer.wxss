@@ -1,0 +1,9 @@
+.timerContainer {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.timerContainer x-timer {
+  margin: 5px 0;
+}
